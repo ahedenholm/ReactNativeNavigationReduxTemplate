@@ -1,6 +1,6 @@
 # React Native template with react-navigation and redux installed
 
-## Made with React Native, Redux
+## Made with React Native, React Navigation, Redux, Nativebase
 
 ## Development flow
 1. npm install -g react-native-cli
