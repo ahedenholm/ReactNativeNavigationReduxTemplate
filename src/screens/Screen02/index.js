@@ -23,7 +23,7 @@ class Screen02 extends Component {
             text="Navigate to Login" 
             style={styles.primaryButton}
             textstyle={styles.primaryButtonText}
-            callback={() => this.props.navigation.navigate("Login")} 
+            callback={() => this.props.navigation.navigate(constants.SCREEN_LOGIN)} 
           />
       </ScrollView>
     );

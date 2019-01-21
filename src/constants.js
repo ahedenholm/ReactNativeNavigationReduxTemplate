@@ -1,9 +1,7 @@
 
 export default {
   SCREEN_LOGIN: "Login",
-  SCREEN_WORKORDERS: "WorkOrders",
-  SCREEN_WORKORDER_DETAILS: "WorkOrderDetails",
-  SCREEN_REPORT_STATUS: "ReportStatus",
-  SCREEN_REPORT_SUBMISSION: "ReportSubmission",
+  SCREEN_01: "Screen01",
+  SCREEN_02: "Screen02",
 } 
   

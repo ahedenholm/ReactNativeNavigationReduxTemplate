@@ -25,7 +25,7 @@ class Login extends Component {
             text="Navigate to Screen 01" 
             style={styles.primaryButton}
             textstyle={styles.primaryButtonText}
-            callback={() => this.props.navigation.navigate("Screen01")} 
+            callback={() => this.props.navigation.navigate(constants.SCREEN_01)} 
           />
       </View>
     );

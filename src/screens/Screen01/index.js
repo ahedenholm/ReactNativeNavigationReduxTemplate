@@ -23,7 +23,7 @@ class Screen01 extends Component {
             text="Navigate to Screen 02" 
             style={styles.primaryButton}
             textstyle={styles.primaryButtonText}
-            callback={() => this.props.navigation.navigate("Screen02")} 
+            callback={() => this.props.navigation.navigate(constants.SCREEN_02)} 
           />
       </View>
     );
